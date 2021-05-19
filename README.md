@@ -1,7 +1,5 @@
 # MyTest
-## This is our sandpit
-
-🦙
+## This is our sandpit 🦙
 
 **_Check this out_**
 * ABC 
