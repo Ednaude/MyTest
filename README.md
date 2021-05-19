@@ -21,5 +21,6 @@
 
 "could you comment on the above code pushed through?"
 
-![GitHub Logo](/images/logo.png)
+`<poop>` what does this do??
+
 Format: ![Alt Text](https://www.driven.co.nz/media/100014973/urusd.jpg?width=820)
