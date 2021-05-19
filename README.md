@@ -1,9 +1,9 @@
 # MyTest
 ## subheading
 
-_Check this out_
-* ABC *
-  * DEF *
+**_Check this out_**
+* ABC 
+  * DEF 
 
 1. GHI
 2. JKL
