@@ -10,6 +10,6 @@
 
 **Beautiful, isn't it!**
 
-"Whata place to work at!"
+"What a place to work at!"
 
 [www.assurity.nz]
