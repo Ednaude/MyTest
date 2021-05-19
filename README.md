@@ -2,8 +2,8 @@
 ## subheading
 
 _Check this out_
-*ABC
-  *DEF
+* ABC *
+  * DEF *
 
 1. GHI
 2. JKL
