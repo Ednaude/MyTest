@@ -9,3 +9,7 @@
 2. JKL
 
 **Beautiful, isn't it!**
+
+"Whata place to work at!"
+
+[www.assurity.nz]
