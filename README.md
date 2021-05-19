@@ -8,13 +8,16 @@
 1. GHI
 2. JKL
 
+- [x] Mark this as complete
+- [ ] Leave this one blank
+
 **Beautiful, isn't it!**
 
 "What a place to work at!"
 
 [www.assurity.nz]
 
-@dunkblocker3000 - broken the website yet??
+@Dunkblocker3000 - broken the website yet??
 
 "could you comment on the above code pushed through?"
 
